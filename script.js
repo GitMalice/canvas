@@ -10,5 +10,6 @@ if (canvas.getContext) {
     ctx.beginPath()
     ctx.arc(radius, radius, seven * i, 0, Math.PI * 2)
     ctx.stroke()
+    
   }
 }
